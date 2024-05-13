@@ -1,4 +1,4 @@
-# Exploration-and-Exploitation-in-Reinforcement-Learning
+# Exploration and Exploitation in Reinforcement Learning
 
 This project offers a comprehensive implementation of diverse bandit algorithms, including epsilon-greedy, softmax, annealing softmax, and Upper Confidence Bound (UCB). Bandit algorithms are vital in the realm of reinforcement learning, particularly for solving the multi-armed bandit problem, where a learner must balance exploration and exploitation to maximize cumulative rewards. By providing a suite of these algorithms, the project enables researchers and practitioners to experiment with various strategies for tackling real-world decision-making problems, spanning from online advertising optimization to clinical trial designs. Leveraging these algorithms, users can gain insights into their performance across different scenarios and refine strategies to optimize decision-making in dynamic environments.
 
